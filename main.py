@@ -1,10 +1,3 @@
-a = 5
-b = 6
-c = a + b
-print(c)
-name = "dipoo"
-
-print(name)
-
+sti = "hello helo hello hello"
 
 
