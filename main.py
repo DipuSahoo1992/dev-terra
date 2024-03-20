@@ -1,10 +1,5 @@
-a = 5
-b = 6
-c = a + b
-print(c)
 name = "dipoo"
-
-print(name)
+adress = "127.0.0.1"
 
 
 
