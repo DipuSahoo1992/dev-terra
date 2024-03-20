@@ -1,4 +1,6 @@
-print("hello world again")
+name = "dipoo"
+
+print(name)
 
 
 
